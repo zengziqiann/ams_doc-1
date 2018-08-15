@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
 * [介绍](README.md)
 * [加入项目](jia-ru-xiang-mu.md)
