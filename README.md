@@ -1,23 +1,25 @@
 # README
 
-## Getting Super Powers
+# 一. 产品概述
+>接口管理系统（API Management System，简称AMS），面向开发、测试、产品等各角色研发项目人员，通过围绕接口定义，集接口文档管理、接口 mock、团队协作功能于一体，规范接口管理，提升项目开发效率和沟通效率，助力人效管理。
 
-Becoming a super hero is a fairly straight forward process:
+>产品目标: 功能齐全，简单、好用的接口管理系统
 
-```
-$ give me super-powers
-```
+**核心功能亮点：**   
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+- 接口编辑可交互 -- 方便省时省力；   
+* 字段 wiki -- 字段含义清晰透明，团队之间无缝协作；   
+* 接口契约 -- 接口规则一目了然，mock 和自动化测试更方便快捷；   
+* 沙箱环境 -- 环境随心切换，辅助业务接口联调  
 
-Once you're strong enough, save the world:
+# 二. 应用场景
+* 解决前后端接口沟通问题
+ 	* 统一接口规范和约定，和邮件、word 形式交付接口文档说再见，信息不再遗漏
+ 	* 统一的接口管理和查阅平台，沟通不再占去大量工作时间
+* 前后端开发同步进行   
+* 接口定义可寻   
+* 接口与日俱增，专业管理工具成为刚需
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+本支持文档将为各位详细介绍 AMS 的各方面特性，如果在使用过程中依然存有问题，欢迎各位通过以下方式联系我们，我们将会尽快为您解答：
+咚咚群：7430423
 
